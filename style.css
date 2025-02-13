@@ -1,0 +1,47 @@
+.navbar {
+    background-color: rgb(68, 140, 213);
+}
+.navbar .nav-link{
+    color:white;
+}
+#banner {
+   
+    background: linear-gradient(90deg, rgba(164, 156, 190, 0.558)0%, rgba(20, 14, 36, 0.7)100%), url(image/home.png.heic);
+    background-repeat: no-repeat;
+    height:  90vh;
+    background-size: cover;
+}
+#banner h3{
+    font-size: 22px;
+    text-transform: uppercase;
+}
+#banner h1 {
+    font-size: 55px;
+    text-transform: uppercase;
+}
+
+.btn {
+    padding: 10px 25px;
+}
+.btn-gg{
+    background-color: aliceblue;
+    color: rgb(13, 17, 17);
+    border:2px solid rgb(82, 71, 87);
+    border-radius: 56;
+    transition: all ease 0.5s;
+}
+.btn-gg:hover {
+    background-color: white;
+    border: 2px solid rgb(19, 13, 19);
+    color:aliceblue;
+
+}
+
+section {
+    padding: 100px 0;
+}
+#about img {
+    height: 500px;
+    width: 500px;
+
+}
